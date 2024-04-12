@@ -14,21 +14,20 @@ At Tea Tree Technology, we specialize in software development and architecture, 
 ## Our Services
 
 We serve businesses in the following industries:
- -Inventory
 - Consumer Engagement
+- Inventory Management
 - Robotics
 - Health and Safety
 
 ## Our Expertise
 
 Our team of experts has a deep understanding of the latest technologies and trends in the IT industry. We specialize in:
-
+- Architecture
 - Software Development
 - Cloud Migration
-- Architecture
 
 ## Get Started
 
 Ready to take your business to the next level with innovative IT solutions? Contact us today to schedule a consultation and learn more about our services.
 
-contact@teatreetech.com
+<mailto:contact@teatreetech.com>
